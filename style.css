@@ -365,8 +365,8 @@ h3 {
     margin-top: 0.75rem;
 }
 
-.about-content .btn-primary {
-    margin-top: 1rem;
+.about-button {
+    margin-top: 1.5rem;
     align-self: flex-start;
 }
 
